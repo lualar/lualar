@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lualar
 - 👀 I’m interested in DevOps, Deep Learning and Agile
 - 🌱 I’m currently learning DevOps
-- 💞️ I’m looking to collaborate on Deep Learning
+- 💞️ I’m looking to work/collaborate with DevOps, BigData, ML projects.
 - 📫 Reach me lualar@gmail.com 
 
 <!---
