@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lualar
-- 👀 I’m interested on Agile, DevOps/SRE, Big Data, Deep Learning and Web3
-- 🌱 I’m currently learning and getting the DevOps/SRE Certification
-- 💞️ I’m looking to work/collaborate with DevOps, BigData, ML projects.
+- 👀 I’m interested on Agile, DevOps/SRE, Big Data, Microservices, RPA
+- 🌱 I’m currently learning and getting the DevOps/SRE & Microservices Architecture Certifications (With Acenture)
+- 💞️ I’m looking to work/collaborate with BigData, DevOps and Microservices projects.
 - 📫 Reach me lualar@gmail.com 
 
 <!---
